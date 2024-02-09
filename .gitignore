@@ -1,0 +1,6 @@
+.vercel
+.env.development.local
+.DS_Store
+*/.env.development.local
+*/.node_modules
+.node_modules
